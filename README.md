@@ -2,7 +2,7 @@
   
 I do programming as a hobby. If you want to talk, you can reach me on  
 
-![Discord](https://img.shields.io/badge/Discord-izarooni%234063-5662f6?style=for-the-badge&logo=Discord^logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-izarooni%234063-5662f6?style=for-the-badge&logo=Discord&logoColor=white)
 [![Twitter](https://img.shields.io/badge/Twitter-izarooni%5f-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/izarooni_)
 
 I've dabbled in some languages teaching myself how to code for over half my life with software development  

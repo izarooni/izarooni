@@ -35,9 +35,9 @@ Then eventually made more websites using many cool tools!
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-If you're curious, maybe check out my website where I talk about some projects: [izarooni.com](izarooni.com)  
+If you're curious, maybe check out my website where I talk about some projects: [izarooni.com](https://izarooni.com)  
 
-I also have a Minecraft server, [play.izarooni.com](https://play.izarooni.com). There's no website for it but maybe I'll make one in the future! 🙂
+I also have a Minecraft server, [play.izarooni.com](http://play.izarooni.com). There's no website for it but maybe I'll make one in the future! 🙂
 ![play.izarooni.com](https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fplay.izarooni.com%3Fport%3D25565&style=for-the-badge)
 
 ---  

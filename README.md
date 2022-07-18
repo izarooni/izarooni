@@ -2,22 +2,10 @@
 
 ## Hi there, I'm izarooni 👋  
 
-I do programming as a hobby. If you want to talk, you can reach me on  
+I do programming as a hobby. 
 
-
-<a href="https://discord.com/users/128440358953680896">
-<img src="https://cdn.cdnlogo.com/logos/d/84/discord.svg" alt="Discord" width="50px" height="50px">
-</a>
-<a href="https://twitter.com/izarooni_">
-<img src="https://cdn.cdnlogo.com/logos/t/45/twitter.svg" alt="Twitter" width="50px" height="50px">
-</a>
-
-
----
-
-<p align="center">
-I've dabbled in some languages teaching myself how to code for over half my life with software development
-</p>
+I've dabbled in some languages teaching myself how to code for over half my life with software development.  
+Enticed by web development, I started by trying different frameworks, eventually making websites using many cool tools!
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -28,13 +16,13 @@ I've dabbled in some languages teaching myself how to code for over half my life
 ![PHP](https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=php&logoColor=white)
 
 <p align="center">
-Enticed by web development, I started by trying different frameworks  
+
 </p>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <p align="center">
-Then eventually made more websites using many cool tools! 
+
 </p>
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
